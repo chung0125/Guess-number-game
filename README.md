@@ -13,7 +13,7 @@ The system provides feedback to the player, indicating whether the guessed numbe
 # 3.Iteration:
 
 The player continues to make guesses until they either correctly guess the target number or reach a maximum number of allowed attempts (n).
-#＃　4.Outcome:
+# 4.Outcome:
 
 The game ends with a congratulatory message if the player guesses the correct number, along with the number of attempts made. If the player exceeds the maximum allowed attempts, the system reveals the correct number.
 Here's a simple flowchart to illustrate the process:
